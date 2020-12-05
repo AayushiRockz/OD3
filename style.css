@@ -1,0 +1,83 @@
+h1{
+    color: rgb(155, 235, 235);
+    border:2px solid #4722eb;
+    
+    font-family: cursive;
+  
+
+    border-radius: 20px;
+
+}
+h3{
+    color: #ffffff;
+    background-image: url("BlackBack.jpg");
+    margin:1px;
+    padding: 2px;
+    font-family: cursive;
+    
+}
+
+body{
+    margin: 0px;
+    font-family: cursive;
+    background-image:url("castle.jpg");
+   
+    font-size: 20px;
+}
+
+/* * {
+
+    border:solid;
+} */
+.header{
+    background-color: #3FC1C9;
+    display: flex;
+    justify-content: space-between;
+    font-family: cursive;
+   
+
+    
+}
+.UT{
+    
+    font-family: cursive;
+    border:5px solid #35edf3;
+    border-radius:100px;
+    background-image: url("BlackBack.jpg");
+
+}
+.menu{
+    border:5px solid #35edf3;
+    border-radius:30px;
+    background-color: #9BEBEB;
+  
+    
+  
+}
+
+.grid{
+    background-color:#FC5185;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border:2px solid #000000;
+    border-radius: 20px;
+}
+.item{
+     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-family: cursive;
+   
+
+}
+.image{
+    border: 7px solid #ffffff;
+    border-radius: 100px;
+    background-image:url("abstract.jpg");
+
+    padding: 10px;
+     margin:20px; 
+
+}
